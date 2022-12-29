@@ -120,7 +120,7 @@
     <img src="/ring.png" alt="" class="w-72" />
 
     <p class="font-bold text-3xl mt-10">
-      Will you be my fiancé until we get my married ?
+      Will you be my fiancé until we get married ?
     </p>
     <div class="flex flex-row gap-2">
       <button
